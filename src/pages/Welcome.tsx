@@ -13,7 +13,6 @@ import wateringImg from '../assets/watering.png'
 import colors from '../styles/colors'
 import fonts from '../styles/fonts'
 import { useNavigation } from '@react-navigation/native'
-import { function } from 'joi'
 
 export function Welcome(){   
   const navigation = useNavigation()
